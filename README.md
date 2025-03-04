@@ -14,7 +14,7 @@ The `index.html` file is customized to include:
 - Contact details.
 
 ## How to View
-You can view the live version of this portfolio at: [Your Live Website Link]  
+You can view the live version of this portfolio at: 'https://portfolio-website-xx8h-rapopaq2p-basavarajs-projects-43c046d5.vercel.app/' 
 Or, download the repository and open `portfolio.html` in your browser.
 
 ## Technologies Used
